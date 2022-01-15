@@ -36,5 +36,5 @@ Below you will find an output of the results from the Terminal.
 
 This script can be used for other elections by modifying the following - below you will find two specific examples -: 
 1. Change resources file to use other input data, this would require to change the *file_to_load* path from our script to make sure we are using the appropriate input data.
-2. In addition to obtaining the information from the candidates and county, in another election maybe we would also receive a breakdown if the vote was casted via mail, e-mail or in person. If this is the case, we would want to conduct an analysis for each of these categories, this would require to add a line in the code which gets the vote source such as the *candidate_name = row[2]* or *county_name = row[1]* that we currently have in our script.
+2. In addition to obtaining the information from the candidates and county, in another election maybe we would also receive a breakdown of the vote source (i.e. if the vote was casted via mail, e-mail or in person). If this is the case, we would want to conduct an analysis for each vote source, this would require to add a line in the code which captures each category such as the *candidate_name = row[2]* or *county_name = row[1]* that we currently have in our script.
 
