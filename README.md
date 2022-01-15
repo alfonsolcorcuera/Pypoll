@@ -19,7 +19,7 @@ The analysis of the election shows that:
   - Jefferson had 10.5% of the vote with 38,855 votes
   - Denver had 82.8% of the vote with 306,055 votes
   - Arapahoe had 6.7% of the vote with 24,801 votes
-- The county with the largest number of vote was: Denver
+- The county with the largest number of vote was Denver
 - The breakdown of votes by candidate is the following:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes
