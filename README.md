@@ -27,4 +27,4 @@ The analysis of the election shows that:
 
 Below you will find an output of the results from the Terminal.
 
-
+![](Terminal_Output.png)
